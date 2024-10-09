@@ -1,0 +1,124 @@
+Exercicio JS:
+
+Variáveis JS
+
+1ª Crie uma variável chamada carNamee atribua o valor Volvoa ela.
+
+let carName = "Volvo";
+
+2ª Crie uma variável chamada xe atribua o valor 50a ela.
+
+let X = 50
+
+3ª Exiba a soma de 5 + 10, usando duas variáveis: xe y.
+
+let = 1;
+let y = 10;
+document.getElementById("demo").innerHTM = x hy;
+
+4ª Crie uma variável chamada z, atribua x + ya ela e exiba o resultado em uma caixa de alerta.
+
+let x = 5;
+let y = 10;
+document.getElementById("demo").innerHTML = x + y;
+
+5ª Crie uma variável chamada z, atribua x + ya ela e exiba o resultado em uma caixa de alerta.
+
+let x = 5;
+let y = 10;
+let z = x + y;
+alert(z);
+
+6ª Em uma única linha, declare três variáveis ​​com os seguintes nomes e valores:
+
+let style="v = "John"l lastName = ;"><fot s e=;
+
+Operadores JS
+
+1ª Multiplique 10por 5, e alerte o resultado:
+
+alert(10 e 5);
+
+2ª Divida 10por 2, e informe o resultado:
+
+alert(10 / 2);
+
+3ª Alerta o resto quando 15é dividido por 9.
+
+alert(15 % 9);
+
+4ª Use o operador de atribuição correto que resultará em xser 15(o mesmo que x = x + y).
+
+x = 10;
+y = 5;
+x += y;
+
+5ª Use o operador de atribuição correto que resultará em xser 50(o mesmo que x = x * y).
+
+x = 10;
+y = 5;
+x *= y;
+
+Tipos de dados JS
+
+1ª Use comentários para descrever o tipo de dados correto das seguintes variáveis:
+
+let length = 16; 	  // Number
+let lastName = "Johnson"; // String
+const x = {
+firstName: "John",
+lastName: "Doe"
+};			  // Object
+
+
+1ª Execute a função chamada myFunction.
+
+function myFunction() { 
+alert("Hello World!");
+}
+myFunction();
+
+2ª Crie uma função chamada "myFunction".
+
+function myFunction() { alert("Hello World!");
+}
+
+3ª Faça a função retornar "Olá".
+
+function myFunction() {
+return "Hello";
+}
+document.getElementById("demo").innerHTML = myFunction();
+
+4ª Faça a função exibir "Olá" no HTML interno de um elemento com o ID "demo".
+
+function myFunction() {
+}
+document.getElementById("demo").innerHTML = "Hello";
+
+Objetos JS
+
+1ª Alerte "John" extraindo informações do objeto pessoa.
+
+const person = {
+firstName: "John",
+lastName: "Doe"
+};
+alert(person.firstName);
+
+2ª Adicione a seguinte propriedade e valor ao objeto pessoa: país: Noruega.
+
+const person = {
+firstName: "John",
+lastName: "Doe",
+country: "Norway"
+};
+
+3ª Crie um objeto chamado pessoa com nome = João, idade = 50. Em seguida, acesse o objeto para alert("João tem 50 anos").
+
+const person = {
+name: "John", age: 50
+};
+alert(person.name + " is + person.age);
+
+Eventos JS
