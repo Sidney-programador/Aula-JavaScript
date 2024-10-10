@@ -1,8 +1,3 @@
-TURMA : DSM2
-ALUNO: LUCAS PIETRO SILVA DINIZ
-
-
-
 VARIAVEIS JS
 
 1ª Crie uma variável chamada carNamee atribua o valor Volvoa ela.
